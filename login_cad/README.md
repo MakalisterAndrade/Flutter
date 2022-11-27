@@ -1,16 +1,10 @@
 # login_cad
 
-A new Flutter project.
+Projeto flutter com protótipo de tela de login feito em dart com framework flutter.
 
-## Getting Started
+## Figma
 
-This project is a starting point for a Flutter application.
+Prévias de telas de login e cadastro, feitos com a ferramenta figma, mobile e web.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login e cadastro mobile - Figma
+![Mobile](https://github.com/MakalisterAndrade/Flutter/blob/main/login_cad/figma/Mobilemobile_ihc.png)
