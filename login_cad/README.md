@@ -17,4 +17,4 @@ Prévias de telas de login e cadastro, feitos com a ferramenta figma, mobile e w
 ![Web Cadastro](https://github.com/MakalisterAndrade/Flutter/blob/main/login_cad/figma/webcadastro.png)
 
 ### Link do projeto no Figma
-![Link do projeto no Figma](https://www.figma.com/file/2EyrGSTMKgH7ZaNwItyS4J/IHC?node-id=0%3A1&t=6m5oloC5AqJV3oeL-1)
+![Link do projeto no Figma]<https://www.figma.com/file/2EyrGSTMKgH7ZaNwItyS4J/IHC?node-id=0%3A1&t=6m5oloC5AqJV3oeL-1>
