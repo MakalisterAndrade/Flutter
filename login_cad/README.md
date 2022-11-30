@@ -1,8 +1,5 @@
 # login_cad
-## Arquivos dart/flutter dentro da pasta lib
 
-Projeto flutter com protótipo de tela de login feito em dart com framework flutter.
-![Tela mobile protótipo flutter](https://github.com/MakalisterAndrade/Flutter/blob/main/login_cad/figma/telaflutter.png)
 
 
 
